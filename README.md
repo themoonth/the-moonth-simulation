@@ -1,12 +1,43 @@
 # The Moonth  
 A Symbolic–Phenomenological Model of Cyclical Time
 
-**Kamil Wójcik**  
-Oslo, Norway / Hrubieszów, Poland  
-December 2025  
+**Kamil Wójcik** • Oslo, Norway / Hrubieszów, Poland • December 2025  
 
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18067950.svg)](https://doi.org/10.5281/zenodo.18067950)  
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+### Core Phenomenological Observation
+
+Human consciousness organizes itself into recurring cycles of approximately 29 days, divided into five phases, each lasting **137 hours** — symbolically aligned with the fine structure constant α ≈ 1/137.036.
+
+**α · Ψ(t) ≈ 1**
+
+### Key Features
+- Buffer physics and impedance of time (11-hour transition overhead)
+- Golden ratio asymmetry in rise/fall arcs
+- Dual scaling: φ-based (biological) and 60-based (civilizational)
+- Eleven operational principles (Leges Undecim)
+- Full Python implementation
+
+This model is offered as a **practical lens** for self-observation and timing — not as a claim of physical law.
+
+### Files
+- `themoonthsymbolicmodel.pdf` – Full paper
+- `themoonth_model.py` – Python implementation
+- (optional) `moonth_fractal_summary.png` – Visual summary
+
+### Permanent Archive
+Official version with DOI:  
+[https://doi.org/10.5281/zenodo.18067950](https://doi.org/10.5281/zenodo.18067950)
+
+Related earlier work: [https://zenodo.org/records/17881141](https://zenodo.org/records/17881141)
+
+### License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The structure was constructed to illuminate recurring patterns — its value lies in use.
+
+— Kamil Wójcik, December 2025
 ---
 
 ### Core Phenomenological Observation
