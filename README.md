@@ -217,11 +217,15 @@ class LegesUndecim:
         "Integration": "Completion of a cycle yields consolidation.",
         "Interpretation": "Meaning arises from use, not assertion.",
     }
-#
-#  END
 
-Closing Note
+
+---
+
+### Closing Note
+
 This model is offered as a practical lens for self-observation and timing. It invites personal testing and further exploration, not acceptance as objective truth.
+
 The structure was constructed to illuminate recurring patterns — its value lies in use.
-— Kamil Wójcik
+
+— Kamil Wójcik  
 December 2025
